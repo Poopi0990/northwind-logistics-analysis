@@ -1,7 +1,7 @@
-#  Analiza logistyczna danych Northwind
+##  Analiza logistyczna danych Northwind
 
-    Ten projekt łączy moje rzeczywiste doświadczenie w branży logistycznej oraz ukończone studia magisterskie z Logistyki Międzynarodowej z praktyką analizy danych w SQL.Miałam okazję pracować jako specjalistka ds. obsługi klienta w jednym z największych terminali przeładunkowych na Warmii i Mazurach, gdzie zajmowałam się m.in. fakturowaniem, sprzedażą i dystrybucją ekogroszku oraz obsługą stanów magazynowych. Dzięki pracy z systemami takimi jak Symfonia i bezpośrednim kontaktem z klientami, dobrze rozumiem wyzwania i specyfikę logistyki operacyjnej.
-    W tym projekcie pokazuję, jak można przeanalizować dane zamówień pod kątem efektywności dostaw i kosztów transportu — i jak można wykorzystać wiedzę logistyczną w pracy analitycznej.
+   Ten projekt łączy moje rzeczywiste doświadczenie w branży logistycznej oraz ukończone studia magisterskie z Logistyki Międzynarodowej z praktyką analizy danych w SQL.Miałam okazję pracować jako specjalistka ds. obsługi klienta w jednym z największych terminali przeładunkowych na Warmii i Mazurach, gdzie zajmowałam się m.in. fakturowaniem, sprzedażą i dystrybucją ekogroszku oraz obsługą stanów magazynowych. Dzięki pracy z systemami takimi jak Symfonia i bezpośrednim kontaktem z klientami, dobrze rozumiem wyzwania i specyfikę logistyki operacyjnej.
+   W tym projekcie pokazuję, jak można przeanalizować dane zamówień pod kątem efektywności dostaw i kosztów transportu — i jak można wykorzystać wiedzę logistyczną w pracy analitycznej.
 
 
 ## Cel 
