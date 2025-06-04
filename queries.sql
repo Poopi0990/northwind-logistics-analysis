@@ -1,5 +1,5 @@
 -- 1. Średni czas dostawy (ShippedDate - OrderDate) dla krajów
--- Celem jest sprawdzenie, ile średnio dni trwa dostawa zamówienia uwzględniając kraj klienta i mijesce załadunku tak aby dane były przejrzyste do odczytu. 
+-- Celem jest sprawdzenie, ile średnio dni trwa dostawa zamówienia uwzględniając kraj klienta i miejsce załadunku tak aby dane były przejrzyste do odczytu. 
 -- (Można użyć funkcji julianday do obliczenia różnicy dat)
 
 SELECT O.ShipCity || ',' || o.ShipCountry AS ShipLocation, C.Country AS CustomerCountry,
