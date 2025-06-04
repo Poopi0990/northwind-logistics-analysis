@@ -13,7 +13,7 @@
 
 ## Kluczowe metryki:
 - Średni czas dostawy (ShippedDate - OrderDate)
-- Top kraje pod względem kosztu dostawy (`Freight`)
+- Top kraje pod względem kosztu dostawy ('Freight')
 - Przewoźnicy i ich wydajność
 - Produkty najczęściej zamawiane do drogich krajów
 
