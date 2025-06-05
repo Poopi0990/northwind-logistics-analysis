@@ -20,12 +20,6 @@
 ## Technologie
 SQLite, SQL, DB Browser, Excel/Power BI
 
-## Przykładowe analizy SQL 
-
-- Klasyfikacja zamówień wg kosztu frachtu (VIP / Duże / Małe)
-- Analiza średniego czasu dostawy
-- Wydajność przewoźników (ilość obsłużonych zamówień)
-- Wskaźnik lojalnych klientów (klienci > 5 zamówień)
 
 * Uwagi osobiste
 
