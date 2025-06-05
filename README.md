@@ -20,6 +20,13 @@
 ## Technologie
 SQLite, SQL, DB Browser, Excel/Power BI
 
+## Przykładowe analizy SQL 
+
+- Klasyfikacja zamówień wg kosztu frachtu (VIP / Duże / Małe)
+- Analiza średniego czasu dostawy
+- Wydajność przewoźników (ilość obsłużonych zamówień)
+- Wskaźnik lojalnych klientów (klienci > 5 zamówień)
+
 * Uwagi osobiste
 
    To mój pierwszy projekt łączący logistykę i analizę danych. Praca nad nim pomogła mi przekuć wcześniejsze doświadczenie zawodowe w umiejętności techniczne, które mogę teraz rozwijać jako przyszła analityczka danych.
