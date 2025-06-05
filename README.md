@@ -15,7 +15,7 @@
 - Średni czas dostawy (ShippedDate - OrderDate)
 - Top kraje pod względem kosztu dostawy ('Freight')
 - Przewoźnicy i ich wydajność
-- Produkty najczęściej zamawiane do drogich krajów
+- Produkty najczęściej zamawiane do krajów z wysokim średnim kosztem frachtu
 
 ## Technologie
 SQLite, SQL, DB Browser, Excel/Power BI
