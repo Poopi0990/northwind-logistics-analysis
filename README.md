@@ -17,6 +17,17 @@
 - Przewoźnicy i ich wydajność
 - Produkty najczęściej zamawiane do krajów z wysokim średnim kosztem frachtu
 
+## 📊 Przykładowe wyniki zapytań
+
+**Średni czas dostawy do lokalizacji:**  
+![Czas dostawy](screenshots/czas_dostawy.png)
+
+**Liczba zamówień obsłużona przez przewoźników:**  
+![Wydajność przewoźników](screenshots/wydajnosc_przewoznikow.png)
+
+**Top 3 kraje z najniższym średnim kosztem frachtu:**  
+![Top 3_kraje_tani_fracht](screenshots/top3_kraje_tani_fracht.png)
+
 ## Technologie
 SQLite, SQL, DB Browser, Excel/Power BI
 
